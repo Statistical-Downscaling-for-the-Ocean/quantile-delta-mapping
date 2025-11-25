@@ -1,0 +1,6 @@
+gsw
+matplotlib
+numpy 
+pandas 
+xarray
+xsdba
