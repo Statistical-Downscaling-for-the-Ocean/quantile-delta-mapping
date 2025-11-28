@@ -1,6 +1,7 @@
 gsw
 matplotlib
-numpy 
-pandas 
-xarray
+numpy
+pandas
+xarray[io]
 xsdba
+jupyterlab
