@@ -8,7 +8,7 @@ This repository contains the code related to a quantile delta mapping approach t
 To download:
 ```
 cd /path/to/data/directory # Ex: ~/data/
-wget https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/Training/observations/ctd/lineP_CTD_training.csv
+wget https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/Training/observations/ctd/lineP_CTD_training.csv.gz
 wget https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/Training/models/NEP36-CanOE/NEP36_along_LineP.nc
 
 ```
